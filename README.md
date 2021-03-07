@@ -1,6 +1,6 @@
 # Tested-Dataset
 
-This repository contains some tested dataset to help obtain insights.
+This repository contains some tested datasets to help obtain insights.
 
 
 
@@ -13,3 +13,4 @@ This repository contains some tested dataset to help obtain insights.
 **graph_ic.inf**:  the binary format graph with edge probability associated.
 
 **graph_lt.inf**:  the binary format graph with edge probability associated.
+
